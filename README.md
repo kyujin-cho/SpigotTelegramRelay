@@ -1,5 +1,5 @@
 # Spigot-Telegram Chat Relay Plugin
-This is a simple plugin which relays chat between Spigot Minecraft Server and Telegram Chat. 
+Simple plugin which relays chat between Spigot Minecraft Server and Telegram Chat, written in Kotlin.    
 All text messages on specified Telegram chatroom/channel will be relayed to Minecraft Chat with prefix \<TG>, and vice versa (with prefix \<MC>).
 
 ## Installation
