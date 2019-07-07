@@ -1,0 +1,7 @@
+main: dev.kyujin.spigottelegramrelay.Main
+name: SpigotTelegramRelay
+version: 0.0.1
+description: Transfer messages from Minecraft and Telegram, bi-directionally
+api-version: 1.14
+author: Kyujin Cho
+website: https://blog.r3mark.xyz

@@ -1,0 +1,5 @@
+Telegram:
+  BotAPIKey: <API Key of relay bot>
+  TargetRoomIds: 
+    - <Target Room ID 1>
+    - <Target Room ID 2>
